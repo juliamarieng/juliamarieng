@@ -16,7 +16,7 @@ Me chamo Julia Maria Ferreira Lima, tenho 19 anos e sou natural de Brasília. Co
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/juliamarieng?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -51,11 +51,19 @@ Me chamo Julia Maria Ferreira Lima, tenho 19 anos e sou natural de Brasília. Co
 />
 <img 
     align="left" 
-    alt="C/C++"
-    title="C/C++" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c++/c/c++-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"          
+/>
+<img 
+    align="left" 
+    alt="C++"
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"         
 />
 <img 
     align="left" 
@@ -92,6 +100,8 @@ Me chamo Julia Maria Ferreira Lima, tenho 19 anos e sou natural de Brasília. Co
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
