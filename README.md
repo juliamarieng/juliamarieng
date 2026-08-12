@@ -2,7 +2,7 @@
 
 **`Desenvolvedora`**
 
-Me chamo Julia Maria Ferreira Lima, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio em escola pública, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software pela UnB. Estou sempre em busca de aprimorar meus conhecimentos e sou apaixonada por tecnologia. Gosto de compartilhar sobre minha rotia e meus conhecimentos na área, por meio do instagram ().
+Me chamo Julia Maria Ferreira Lima, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio em escola pública, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software pela UnB. Estou sempre em busca de aprimorar meus conhecimentos e sou apaixonada por tecnologia.
 
 <p align="left">
     <a href="https://github.com/juliamarieng?tab=repositories&sort=stargazers">
